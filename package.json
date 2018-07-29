@@ -1,0 +1,18 @@
+{
+  "name": "insomnia-plugin-theme-onedark-z",
+  "version": "1.0.0",
+  "author": "Zack Boehm <git@zackboehm.com>",
+  "description": "Insomnia One Dark theme with slight customizations",
+  "license": "MIT",
+  "repository": "https://github.com/zackboe/insomnia-plugin-theme-onedark-z",
+  "bugs": {
+    "url": "https://github.com/zackboe/insomnia-plugin-theme-onedark-z/issues"
+  },
+  "main": "index.js",
+  "insomnia": {
+    "name": "theme-onedark-z"
+  },
+  "scripts": {
+    "test": "node --version"
+  }
+}
